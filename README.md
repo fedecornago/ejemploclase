@@ -1,2 +1,2 @@
-# ejemploclase
+# Ejemplo_Clase
 trabajo en clase ?
